@@ -6,15 +6,15 @@ const FILES = [
   "./style.css",
   "./icon.svg",
   "./manifest.webmanifest",
-  "./js/utils.js",
-  "./js/store.js",
-  "./js/reminders.js",
-  "./js/tasks.js",
-  "./js/notes.js",
-  "./js/projects.js",
-  "./js/settings.js",
-  "./js/salah.js",
-  "./js/main.js"
+  "./utils.js",
+  "./store.js",
+  "./reminders.js",
+  "./tasks.js",
+  "./notes.js",
+  "./projects.js",
+  "./settings.js",
+  "./salah.js",
+  "./main.js"
 ];
 
 self.addEventListener("install", (e) => {
