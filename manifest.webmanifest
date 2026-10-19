@@ -1,0 +1,13 @@
+{
+  "name": "Focus List",
+  "short_name": "Focus List",
+  "description": "Prayer and Quran tracker, tasks, notes and projects in one calm app.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#04241c",
+  "theme_color": "#04241c",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
